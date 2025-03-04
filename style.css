@@ -1317,13 +1317,17 @@ a:hover {
      margin-top: -10px;
  }
 
+         .content-text h1 span{
+                    margin-top: 120px;
+         }
 }
 
 
 @media screen and (max-width: 768px) {
 
     nav h2 {
-        font-size: 2rem;
+        font-size: 1.7rem;
+        padding-left: 10px;
 
     }
 
@@ -1501,4 +1505,13 @@ a:hover {
     }
                
    
+}
+
+
+.social{
+    margin-top: 1.3rem;
+}
+
+.fini{
+        padding-right: 40px;
 }
