@@ -1313,7 +1313,9 @@ a:hover {
     .potos img {
         width: 100%;
     }
-
+ .content-text {
+     margin-top: -10px;
+ }
 
 }
 
@@ -1497,5 +1499,6 @@ a:hover {
     .thirdhome{
         height:100vh;
     }
+               
    
 }
