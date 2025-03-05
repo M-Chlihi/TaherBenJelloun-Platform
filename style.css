@@ -929,7 +929,12 @@ footer {
     padding-top: 5px;
 }
 
-
+.vidZ{
+    border-radius: 10px;
+    width: 340px;
+    height: 180PX;
+    text-align: center;
+}
 
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -1060,9 +1065,11 @@ footer {
 
     .vidZ {
         width: 100%;
-        height: 100%;
+        /* height: 100%; */
         object-fit: contain;
         border: 4px slid white;
+        border-radius: 10px;
+        
 
     }
 /* NEW */
