@@ -1522,3 +1522,27 @@ a:hover {
 .fini{
         padding-right: 40px;
 }
+
+@media screen and (max-width: 570px) {
+    .content-text h1  {
+         font-size: 65px; 
+
+    }
+        .content-text h3 {
+            
+            font-size: 16px;
+         }
+}
+
+@media screen and (max-width: 768px) {
+    nav h2 {
+        font-size: 1.5rem;
+        padding-left: 10px;
+    }
+}
+
+.thirdhome span {
+  
+    font-size: 60PX;
+}
+
