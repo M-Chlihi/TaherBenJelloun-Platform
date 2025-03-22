@@ -858,3 +858,11 @@ margin-left: 15%;
         }
    
 }
+
+a{
+    font-weight: 700;
+    color: blue;
+}
+a:hover{
+    color: white;
+}
